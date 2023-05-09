@@ -7,7 +7,7 @@ I am constantly learning better ways to write maintainable and scalable code as 
 
 These are technologies I have used as a Developer
 
-- Frontend: HTML, CSS, JavaScript, React, WordPress
+- Frontend: HTML, CSS, JavaScript, Angular,Typescript
 - Backend: PostgreSQL, MySQL, Express, NodeJs, .Net Core, Strong Loop Back
 
 ### Soft Skills
